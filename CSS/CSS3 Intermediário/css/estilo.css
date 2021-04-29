@@ -1,0 +1,75 @@
+/* margin-padding */
+.conteudo{
+    border:1px solid red;
+    width:150px;
+
+    padding: 20px;
+    /*
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    */
+
+    /*
+    padding: 20px 15px 10px 5px; 
+    */
+
+    /*
+    margin-top:20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    */
+
+    /*
+    margin: 20px 5px 10px 5px;
+    */
+
+    margin: 10px;
+}
+
+/* notícia */
+#noticia{
+    padding:10px;
+    border: 1px solid grey;
+    width:200px;
+}
+
+/* h2{
+    margin:0px;
+} */
+
+/* Float */
+
+.conteudo-float{
+    background: cadetblue;
+    border:1px solid whitesmoke;
+    width: 150px;
+    height:150px;
+    float: left;
+    margin:10px;
+}
+
+.conteudo-float:hover{
+    background: crimson;
+}
+
+
+.conteudo-float1{
+    background-color: coral;
+    border:1px solid whitesmoke;
+    width: 150px;
+    height:150px;
+    float: left;
+    margin:10px;
+}
+
+.clear{
+    clear: both;
+}
+
+#principal{
+    border: 1px solid brown;
+    background: chocolate;
+}

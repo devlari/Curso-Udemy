@@ -1,0 +1,39 @@
+/* ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    padding: 5px 20px;
+    background: url(../img/seta.png) no-repeat left center;
+} */
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul a{
+    width: 200px;
+    height: 40px;
+    color: #000;
+    text-decoration: none;
+    text-indent: 30px;
+    line-height: 40px;
+    display: block;
+    background: #f7b600 url(../img/menu.png) no-repeat left center;
+}
+
+a:hover{
+    background-position: right bottom;
+    color: #fff;
+    background-color: #f99200;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a{
+    background-position: right bottom;
+    color: #fff;
+    background-color: #f99200;
+}

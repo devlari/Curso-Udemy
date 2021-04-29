@@ -1,0 +1,55 @@
+/* *** SELETOR UNIVERSAL ***  
+*{
+    border: 1px solid red;
+} 
+*/
+
+/* *** SELETOR DE TEXTO *** 
+h1{
+    color:blueviolet;
+}
+*/
+
+/* *** SELETOR DE CLASSE ***
+.verde{
+    color:green;
+} 
+p.verde{
+    color:green;
+}*/
+
+/* *** SELETOR DE ID ***
+#cabecalho{
+    border:1px solid blue;
+}*/
+
+/* *** SELETOR DE FILHO *** 
+PS: Tem que estar diretamente ligado ao elemento
+filho 
+li>a{
+    color:red;
+    text-decoration: none;
+}*/
+
+/* *** SELETOR DE DESCENDENTE *** 
+PS: Não precisa estar diretamente ligado ao elemento
+filho
+li a{
+    color:red;
+    text-decoration: none;
+}*/
+
+/* *** SELETOR DE IRMÃO ADJACENTE *** 
+PS: Um elemento precisa estar "ao lado" de outro
+elemento para ser considerado irmão, e precisa ser
+posterior
+h1+p{
+    color:coral;
+}*/
+
+/* *** SELETOR DE IRMÃO GERAL ***
+PS: Todos os irmãos posteriores ao elemento
+serão afetados 
+h1~p{
+    color:cornflowerblue;
+}*/
