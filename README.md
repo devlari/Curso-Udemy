@@ -5,6 +5,7 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 <h2>Projeto Anna Bella -></h2>
 <hr>
+<img src=https://user-images.githubusercontent.com/70920017/116572178-1dbe0600-a8e2-11eb-852f-0e98e71ff07b.png>
 ![image](https://user-images.githubusercontent.com/70920017/116572178-1dbe0600-a8e2-11eb-852f-0e98e71ff07b.png)
 <p>É um projeto de blog estático simples, utilizando HTML/CSS básico.</p>
 
