@@ -1,6 +1,6 @@
 <h1>Curso-Udemy</h1>
 
-<p>Esse repositório é utilizado para salvar e manter meu progresso no curso de desenvolvedor web da Udemy (https://www.udemy.com/course/web-completo/).
+💻 <p>Esse repositório é utilizado para salvar e manter meu progresso no curso de desenvolvedor web da Udemy (https://www.udemy.com/course/web-completo/).
 Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 <h2>Projeto Anna Bella -></h2>
