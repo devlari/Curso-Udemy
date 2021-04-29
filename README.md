@@ -4,7 +4,7 @@ Esse repositório é utilizado para salvar e manter meu progresso no curso de de
 Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:
 
 * Projeto Anna Bella -> 
-![image](https://user-images.githubusercontent.com/70920017/116571270-4eea0680-a8e1-11eb-9caf-1ad27cd1609f.png)
+![image](https://user-images.githubusercontent.com/70920017/116572178-1dbe0600-a8e2-11eb-852f-0e98e71ff07b.png)
 É um projeto de blog estático simples, utilizando HTML/CSS básico.
 
 * Projeto TecBlog ->
