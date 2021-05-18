@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Snowy Night';
+    src: url('SnowyNight.woff2') format('woff2'),
+        url('SnowyNight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

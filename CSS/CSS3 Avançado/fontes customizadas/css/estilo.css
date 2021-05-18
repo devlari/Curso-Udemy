@@ -1,0 +1,39 @@
+@font-face{
+    font-family: "Snowy Night";
+    src: url(../fonts/SnowyNight.woff);
+}
+
+@font-face{
+    font-family: "Ancient Medium";
+    src: url(../fonts/Ancient-Medium.woff);
+}
+
+@font-face{
+    font-family: "Bring Heart";
+    src: url(../fonts/BringHeart.woff);
+}
+
+@font-face{
+    font-family: "Madelina Script";
+    src: url(../fonts/MadelinaScript.woff);
+}
+
+h1{
+    font-size: 6em;
+    font-family: "Snowy Night";
+}
+
+h2{
+    font-size: 6em;
+    font-family: "Ancient Medium";
+}
+
+h3{
+    font-size: 6em;
+    font-family: "Madelina Script";
+}
+
+p{
+    font-size: 6em;
+    font-family: "Bring Heart";
+}
