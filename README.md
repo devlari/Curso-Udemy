@@ -6,13 +6,6 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 ---
 
-<h2>👩🏻‍💻 Projeto TecBlog</h2>
-<p>O Projeto TecBlog é sobre um blog de tecnologia fictício. Ele foi desenvolvido utilizando HTML/CSS, com sistema de elementos flutuantes.</p>
-<h3 align="center">Página Inicial</h3>
-<img src=https://user-images.githubusercontent.com/70920017/116571142-30840b00-a8e1-11eb-808c-8d23dc432292.png>
-
----
-
 <h2>🌆 Projeto Notícias Cidade</h2>
 <p>É um projeto de um site de notícias, que utitliza HTML/CSS, com sistema de gerenciamento de colunas inteligente.</p>
 <h3 align="center">Página Inicial:</h3>
@@ -30,5 +23,24 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 <h3 align="center">Página "Fotos":</h3>
 <img src="Printscreens/noticias-cidade-fotos.jpg">
 <p>Aqui, apenas a coluna principal é utilizada, usando 100% da área da página.</p>
+
+---
+
+<h2>🏨 Projeto Chalé Hotel</h2>
+<p>Consiste em um site de um hotel fictício, 
+chamado Chalé Hotel. O layout é fixo, porém
+é ajustável horizontalmente, para ser
+compatível em diversas resoluções de tela. </p>
+<h3 align="center">Página Inicial:</h3>
+<img src="Printscreens/chale-hotel-full.jpg">
+
+<br>
+
+<h3 align="center">Página Inicial (reduzida)</h3>
+<img src="Printscreens/chale-hotel-pequeno.jpg">
+<p>Nesse caso, foi especificado um limite mínimo 
+de pixels para o site não reduzir muito e quebrar o layout. Esse limite também é aplicado como um
+limite máximo, para o site não se estender 
+demais.</p>
 
 <br>
