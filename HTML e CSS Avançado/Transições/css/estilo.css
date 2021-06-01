@@ -1,0 +1,13 @@
+#caixa{
+    height: 300px;
+    width:300px;
+    background:paleturquoise;
+    margin: 50px auto;
+}
+
+#caixa:hover{
+    height: 400px;
+    width:400px;
+    background: palevioletred;
+    transition: all 0.8s;
+}
