@@ -1,0 +1,28 @@
+#conteudo{
+    background: #dcdcdc;
+    height: 400px;
+
+    /* Flex! */
+    display: flex;
+
+    /* Linha ou coluna */
+    flex-direction: row;
+
+    /* Quebra de linha */
+    flex-wrap: wrap;
+
+    /* Espaçamento */
+    justify-content: space-around;
+
+    /* Alinhamento */
+    align-items: center;
+
+}
+
+.item{
+    width:150px;
+    height: 150px;
+    background:whitesmoke;
+    border: 1px solid gray;
+    margin: 10px;
+}
