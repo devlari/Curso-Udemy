@@ -6,26 +6,6 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 ---
 
-<h2>🌆 Projeto Notícias Cidade</h2>
-<p>É um projeto de um site de notícias, que utitliza HTML/CSS, com sistema de gerenciamento de colunas inteligente.</p>
-<h3 align="center">Página Inicial:</h3>
-<img src="Printscreens/noticias-cidade.jpg">
-<p>Com três colunas, o menu lateral de entrevistados, coluna principal e coluna secundária.</p>
-
-<br>
-
-<h3 align="center">Página "Brasil":</h3>
-<img src="Printscreens/noticias-cidade-brasil.jpg">
-<p>Com CSS, foi utilizado apenas o menu lateral de entrevistados e a coluna principal.</p>
-
-<br>
-
-<h3 align="center">Página "Fotos":</h3>
-<img src="Printscreens/noticias-cidade-fotos.jpg">
-<p>Aqui, apenas a coluna principal é utilizada, usando 100% da área da página.</p>
-
----
-
 <h2>🏨 Projeto Chalé Hotel</h2>
 <p>Consiste em um site de um hotel fictício, 
 chamado Chalé Hotel. O layout é fixo, porém
@@ -43,4 +23,10 @@ de pixels para o site não reduzir muito e quebrar o layout. Esse limite também
 limite máximo, para o site não se estender 
 demais.</p>
 
-<br>
+---
+
+<h2>🔎 Projeto Museu Nacional</h2>
+<p>O projeto é sobre o Museu Nacional, que fica na Universidade Federal do Rio de Janeiro (UFRJ). É um sistema que utiliza elementos flutuantes para organização, além de links externos, como o do Google Maps e o Youtube. </p>
+
+<h3 align="center">Página Inicial:</h3>
+<img src="Printscreens/museu-nacional.jpg">
