@@ -1,0 +1,21 @@
+#home{
+    color: white;
+}
+
+.caixa{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer a{
+    color: rgb(112, 112, 112);
+}
+
+footer .rodape a{
+    padding: 15px;
+}
+
+footer a:hover{
+    color: black;
+}
