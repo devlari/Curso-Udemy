@@ -6,27 +6,43 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 ---
 
-<h2>🏨 Projeto Chalé Hotel</h2>
-<p>Consiste em um site de um hotel fictício, 
-chamado Chalé Hotel. O layout é fixo, porém
-é ajustável horizontalmente, para ser
-compatível em diversas resoluções de tela. </p>
-<h3 align="center">Página Inicial:</h3>
-<img src="Printscreens/chale-hotel-full.jpg">
-
-<br>
-
-<h3 align="center">Página Inicial (reduzida)</h3>
-<img src="Printscreens/chale-hotel-pequeno.jpg">
-<p>Nesse caso, foi especificado um limite mínimo 
-de pixels para o site não reduzir muito e quebrar o layout. Esse limite também é aplicado como um
-limite máximo, para o site não se estender 
-demais.</p>
-
----
-
 <h2>🔎 Projeto Museu Nacional</h2>
 <p>O projeto é sobre o Museu Nacional, que fica na Universidade Federal do Rio de Janeiro (UFRJ). É um sistema que utiliza elementos flutuantes para organização, além de links externos, como o do Google Maps e o Youtube. </p>
 
 <h3 align="center">Página Inicial:</h3>
 <img src="Printscreens/museu-nacional.jpg">
+
+---
+
+<h2>💲💵 Projeto Finans</h2>
+<p>O Finans é um site sobre uma ferramenta 
+fictícia de finanças. Feito com Bootstrap,
+utiliza o sistema de grids do próprio Bootstrap
+e consegue ser responsivo, mostrando ou ocultando colunas
+conforme a resolução da tela.</p>
+
+<br>
+
+<h3 align="center">Página Inicial (tela cheia):</h3>
+<img src="Printscreens/finans-inicial1-lg.jpg">
+
+<br>
+
+<h3 align="center">Rodapé (tela cheia):</h3>
+<img src="Printscreens/finans-inicial2-lg.jpg">
+
+<br>
+
+<h3 align="center">Página Inicial (reduzida)</h3>
+<img src="Printscreens/finans-inicial1-sm.jpg">
+<p>A página inicial foi dividida em duas colunas, e quando
+a tela é menor, a foto da mulher é ocultada para melhor
+visualização.</p>
+
+<br>
+
+<h3 align="center">Rodapé (reduzido)</h3>
+<img src="Printscreens/finans-inicial2-sm.jpg">
+<p>A última parte de conteúdo antes do rodapé foi dividido
+em três colunas, e quando a tela é reduzida essas colunas
+se desfazem para melhor visualização.</p>
