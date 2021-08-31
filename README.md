@@ -14,7 +14,7 @@ Aqui estão alguns dos últimos projetos que desenvolvi com as aulas:</p>
 
 ---
 
-<h2>💲💵 Projeto Finans</h2>
+<h2>💵 Projeto Finans</h2>
 <p>O Finans é um site sobre uma ferramenta 
 fictícia de finanças. Feito com Bootstrap,
 utiliza o sistema de grids do próprio Bootstrap
