@@ -34,7 +34,7 @@ conforme a resolução da tela.</p>
 <br>
 
 <h3 align="center">Página Inicial (reduzida)</h3>
-<img style="text-align:center" src="Printscreens/finans-inicial1-sm.jpg">
+<img style="margin: 0 auto;" src="Printscreens/finans-inicial1-sm.jpg">
 <p>A página inicial foi dividida em duas colunas, e quando
 a tela é menor, a foto da mulher é ocultada para melhor
 visualização.</p>
