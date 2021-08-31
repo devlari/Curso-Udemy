@@ -34,7 +34,7 @@ conforme a resolução da tela.</p>
 <br>
 
 <h3 align="center">Página Inicial (reduzida)</h3>
-<img align="center" src="Printscreens/finans-inicial1-sm.jpg">
+<img style="text-align:center" src="Printscreens/finans-inicial1-sm.jpg">
 <p>A página inicial foi dividida em duas colunas, e quando
 a tela é menor, a foto da mulher é ocultada para melhor
 visualização.</p>
@@ -42,7 +42,7 @@ visualização.</p>
 <br>
 
 <h3 align="center">Rodapé (reduzido)</h3>
-<img align="center" src="Printscreens/finans-inicial2-sm.jpg">
+<img src="Printscreens/finans-inicial2-sm.jpg">
 <p>A última parte de conteúdo antes do rodapé foi dividido
 em três colunas, e quando a tela é reduzida essas colunas
 se desfazem para melhor visualização.</p>
